@@ -1,84 +1,112 @@
-# 📜 Verified Credentials & Certifications
+# 📜 Verified Credentials & Certifications Directory
 
-Welcome to my central credentials directory showcasing professional certifications in **Data Science**, **Machine Learning**, **AI**, and **Software Engineering**.
-
----
-
-## 🧭 Directory Navigation
-
-* 🤖 [Machine Learning & Data Science](#-machine-learning--data-science)
-* 💻 [Web Development & Programming](#-web-development--programming)
-* 💡 [Artificial Intelligence & Prompting](#-artificial-intelligence--prompting)
-* 🏢 [Virtual Internships & Corporate Credentials](#-virtual-internships--corporate-credentials)
-* 🎓 [Academic Transcripts](#-academic-transcripts)
+A structured repository containing official PDF documents and visual previews for my certifications across **Data Science**, **Machine Learning**, **AI**, and **Software Engineering**.
 
 ---
 
-## 🤖 Machine Learning & Data Science
+## 📂 Quick PDF Verification Index
 
-<details open>
-<summary><b>Google Advanced Data Analytics Specialization</b></summary>
+| Certificate Title | Category | Official Document |
+| :--- | :--- | :---: |
+| **Google Advanced Data Analytics** | Data Science | [Download PDF](./assets/certificates/ADVANCEDDATAANALYTICS.pdf) |
+| **Supervised Machine Learning** | Machine Learning | [Download PDF](./assets/certificates/SUPERVISEDLEARNING.pdf) |
+| **Unsupervised Learning & Recommenders** | Machine Learning | [Download PDF](./assets/certificates/UNSUPERVISEDLEARNING.pdf) |
+| **Foundations of Data Science** | Data Science | [Download PDF](./assets/certificates/FOUNDATIONOFDS.pdf) |
+| **Go Beyond the Numbers** | Data Science | [Download PDF](./assets/certificates/GOBEYONDNUMBERS.pdf) |
+| **The Power of Statistics** | Data Science | [Download PDF](./assets/certificates/POWEROFSTATISTICS.pdf) |
+| **Regression Analysis** | Data Science | [Download PDF](./assets/certificates/SIMPLIFYCOMPLEXDATA.pdf) |
+| **The Nuts and Bolts of Machine Learning** | Machine Learning | [Download PDF](./assets/certificates/NUTS&BOLTSOFML.pdf) |
+| **Basics of Machine Learning** | Machine Learning | [Download PDF](./assets/certificates/BASICSOFML.pdf) |
+| **Data Analytics Capstone** | Data Science | [Download PDF](./assets/certificates/DATAANALYTICSCASTONE.pdf) |
+| **Meta: Intro to Front-End Development** | Web Development | [Download PDF](./assets/certificates/METAINTRODUCTIONTOFRONTEND.pdf) |
+| **Basics of Python** | Programming | [Download PDF](./assets/certificates/BASICSOFPYTHON.pdf) |
+| **First Python Program** | Programming | [Download PDF](./assets/certificates/firstpythonprogram.pdf) |
+| **Introduction to Copilot** | Dev Tools | [Download PDF](./assets/certificates/INTRODUCTIONTOCOPILOT.pdf) |
+| **Claude Code 101** | Dev Tools | [Download PDF](./assets/certificates/claudecode101.pdf) |
+| **AI for Beginners** | Artificial Intelligence | [Download PDF](./assets/certificates/AI%20for%20Beginners.pdf) |
+| **AI for Brainstorming & Planning** | Artificial Intelligence | [Download PDF](./assets/certificates/AIBRAINSTROMING.pdf) |
+| **Prompt Engineering** | Artificial Intelligence | [Download PDF](./assets/certificates/prompt%20engineering.pdf) |
+| **Accelerate Your Job Search with AI** | Artificial Intelligence | [Download PDF](./assets/certificates/JOBSEARCHWITHAI.pdf) |
+| **Deloitte Job Simulation** | Corporate Experience | [Download PDF](./assets/certificates/deollite.pdf) |
+| **Forage Virtual Internship** | Corporate Experience | [Download PDF](./assets/certificates/FORAGE.pdf) |
+| **Graphic Design 3D Effect** | Design | [Download PDF](./assets/certificates/graphicdesignpopprofilepic.pdf) |
+| **Academic Transcript** | Official Record | [Download PDF](./assets/certificates/Muhammad%20Abdullah_CR641_transcript.pdf) |
 
-📄 **Verification:** [Download PDF Document](./assets/certificates/ADVANCEDDATAANALYTICS.pdf)
+---
 
-<p align="left">
-  <img src="./assets/certificates/ADVANCEDDATAANALYTICS.png" width="80%" alt="Google Advanced Data Analytics" />
+## 🖼️ Visual Certificates (Section-Wise)
+
+### 🤖 1. Data Science & Machine Learning
+
+<p align="center">
+  <img src="./assets/certificates/ADVANCEDDATAANALYTICS.png" width="90%" alt="Google Advanced Data Analytics" />
 </p>
 
-</details>
+<p align="center">
+  <img src="./assets/certificates/SUPERVISEDLEARNING.png" width="48%" alt="Supervised Machine Learning" />
+  <img src="./assets/certificates/UNSUPERVISEDLEARNING.png" width="48%" alt="Unsupervised Learning" />
+</p>
 
-<br />
+<p align="center">
+  <img src="./assets/certificates/FOUNDATIONOFDS.png" width="48%" alt="Foundations of Data Science" />
+  <img src="./assets/certificates/GOBEYONDNUMBERS.png" width="48%" alt="Go Beyond Numbers" />
+</p>
 
-| Certificate Course | Preview Image | Official Document |
-| :--- | :---: | :---: |
-| **Supervised Machine Learning: Regression & Classification** | [View PNG](./assets/certificates/SUPERVISEDLEARNING.png) | [Download PDF](./assets/certificates/SUPERVISEDLEARNING.pdf) |
-| **Unsupervised Learning, Recommenders, Reinforcement Learning** | [View PNG](./assets/certificates/UNSUPERVISEDLEARNING.png) | [Download PDF](./assets/certificates/UNSUPERVISEDLEARNING.pdf) |
-| **Foundations of Data Science** | [View PNG](./assets/certificates/FOUNDATIONOFDS.png) | [Download PDF](./assets/certificates/FOUNDATIONOFDS.pdf) |
-| **Go Beyond the Numbers: Translate Data into Insights** | [View PNG](./assets/certificates/GOBEYONDNUMBERS.png) | [Download PDF](./assets/certificates/GOBEYONDNUMBERS.pdf) |
-| **The Power of Statistics** | [View PNG](./assets/certificates/POWEROFSTATISTICS.png) | [Download PDF](./assets/certificates/POWEROFSTATISTICS.pdf) |
-| **Regression Analysis: Simplify Complex Data Relationships** | [View PNG](./assets/certificates/SIMPLIFYCOMPLEXDATA.png) | [Download PDF](./assets/certificates/SIMPLIFYCOMPLEXDATA.pdf) |
-| **The Nuts and Bolts of Machine Learning** | [View PNG](./assets/certificates/NUTS&BOLTSOFML.png) | [Download PDF](./assets/certificates/NUTS&BOLTSOFML.pdf) |
-| **Basics of Machine Learning** | [View PNG](./assets/certificates/BASICSOFML.png) | [Download PDF](./assets/certificates/BASICSOFML.pdf) |
-| **Google Advanced Data Analytics Capstone** | [View PNG](./assets/certificates/DATAANALYTICSCASTONE.png) | [Download PDF](./assets/certificates/DATAANALYTICSCASTONE.pdf) |
+<p align="center">
+  <img src="./assets/certificates/POWEROFSTATISTICS.png" width="48%" alt="Power of Statistics" />
+  <img src="./assets/certificates/SIMPLIFYCOMPLEXDATA.png" width="48%" alt="Regression Analysis" />
+</p>
 
----
+<p align="center">
+  <img src="./assets/certificates/NUTS&BOLTSOFML.png" width="48%" alt="Nuts and Bolts of ML" />
+  <img src="./assets/certificates/BASICSOFML.png" width="48%" alt="Basics of ML" />
+</p>
 
-## 💻 Web Development & Programming
-
-| Course Name | Visual Card | PDF Credential |
-| :--- | :---: | :---: |
-| **Meta: Introduction to Front-End Development** | [Preview](./assets/certificates/METAINTRODUCTIONTOFRONTEND.png) | [PDF Link](./assets/certificates/METAINTRODUCTIONTOFRONTEND.pdf) |
-| **Basics of Python** | [Preview](./assets/certificates/BASICSOFPYTHON.png) | [PDF Link](./assets/certificates/BASICSOFPYTHON.pdf) |
-| **Create Your First Python Program** | [Preview](./assets/certificates/firstpythonprogram.png) | [PDF Link](./assets/certificates/firstpythonprogram.pdf) |
-| **Introduction to Copilot** | [Preview](./assets/certificates/INTRODUCTIONTOCOPILOT.png) | [PDF Link](./assets/certificates/INTRODUCTIONTOCOPILOT.pdf) |
-| **Claude Code 101** | [Preview](./assets/certificates/CLAUDECODE101.png) | [PDF Link](./assets/certificates/claudecode101.pdf) |
+<p align="center">
+  <img src="./assets/certificates/DATAANALYTICSCASTONE.png" width="48%" alt="Data Analytics Capstone" />
+</p>
 
 ---
 
-## 💡 Artificial Intelligence & Prompting
+### 💻 2. Web Development & Programming
+
+<p align="center">
+  <img src="./assets/certificates/METAINTRODUCTIONTOFRONTEND.png" width="48%" alt="Meta Front-End" />
+  <img src="./assets/certificates/BASICSOFPYTHON.png" width="48%" alt="Basics of Python" />
+</p>
+
+<p align="center">
+  <img src="./assets/certificates/firstpythonprogram.png" width="48%" alt="First Python Program" />
+  <img src="./assets/certificates/INTRODUCTIONTOCOPILOT.png" width="48%" alt="Intro to Copilot" />
+</p>
+
+<p align="center">
+  <img src="./assets/certificates/CLAUDECODE101.png" width="48%" alt="Claude Code 101" />
+</p>
+
+---
+
+### 💡 3. Artificial Intelligence & Prompting
 
 <p align="center">
   <img src="./assets/certificates/AI%20for%20Beginners.png" width="48%" alt="AI for Beginners" />
-  <img src="./assets/certificates/prompt%20engineering.png" width="48%" alt="Prompt Engineering" />
+  <img src="./assets/certificates/AIBRAINSTROMING.png" width="48%" alt="AI Brainstorming" />
 </p>
 
-* **AI for Beginners** — [Preview PNG](./assets/certificates/AI%20for%20Beginners.png) | [Document PDF](./assets/certificates/AI%20for%20Beginners.pdf)
-* **AI for Brainstorming & Planning** — [Preview PNG](./assets/certificates/AIBRAINSTROMING.png) | [Document PDF](./assets/certificates/AIBRAINSTROMING.pdf)
-* **Prompt Engineering** — [Preview PNG](./assets/certificates/prompt%20engineering.png) | [Document PDF](./assets/certificates/prompt%20engineering.pdf)
-* **Accelerate Your Job Search with AI** — [Preview PNG](./assets/certificates/JOBSEARCHWITHAI.png) | [Document PDF](./assets/certificates/JOBSEARCHWITHAI.pdf)
+<p align="center">
+  <img src="./assets/certificates/prompt%20engineering.png" width="48%" alt="Prompt Engineering" />
+  <img src="./assets/certificates/JOBSEARCHWITHAI.png" width="48%" alt="Job Search with AI" />
+</p>
 
 ---
 
-## 🏢 Virtual Internships & Corporate Credentials
+### 🏢 4. Virtual Internships & Design
 
-| Program | Preview | Verified PDF |
-| :--- | :---: | :---: |
-| **Deloitte Job Simulation** | [View Card](./assets/certificates/deollite.png) | [View PDF](./assets/certificates/deollite.pdf) |
-| **Forage Experience** | [View Card](./assets/certificates/FORAGE.png) | [View PDF](./assets/certificates/FORAGE.pdf) |
-| **Graphic Design: LinkedIn 3D Effect** | [View Card](./assets/certificates/graphicdesignpopprofilepic.png) | [View PDF](./assets/certificates/graphicdesignpopprofilepic.pdf) |
+<p align="center">
+  <img src="./assets/certificates/deollite.png" width="48%" alt="Deloitte Job Simulation" />
+  <img src="./assets/certificates/FORAGE.png" width="48%" alt="Forage Internship" />
+</p>
 
----
-
-## 🎓 Academic Transcripts
-
-> 📄 **Official Academic Record:** [Muhammad Abdullah Transcript PDF](./assets/certificates/Muhammad%20Abdullah_CR641_transcript.pdf)
+<p align="center">
+  <img src="./assets/certificates/graphicdesignpopprofilepic.png" width="48%" alt="Graphic Design" />
+</p>
