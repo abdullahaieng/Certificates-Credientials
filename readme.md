@@ -97,11 +97,12 @@ A structured repository containing official PDF documents and visual previews fo
 
 <p align="center">
   <img src="./assets/certificates/AI%20for%20Beginners.png" width="48%" alt="AI for Beginners" />
-  <img src="./assets/certificates/AIBRAINSTROMING.png" width="48%" alt="AI Brainstorming" />
+  <img src="./assets/certificates/prompt%20engineering.png" width="48%" alt="Prompt Engineering" />
 </p>
 
 <p align="center">
-  <img src="./assets/certificates/prompt%20engineering.png" width="48%" alt="Prompt Engineering" />
+  
+  <img src="./assets/certificates/AIBRAINSTROMING.png" width="48%" alt="AI Brainstorming" />
   <img src="./assets/certificates/JOBSEARCHWITHAI.png" width="48%" alt="Job Search with AI" />
 </p>
 
