@@ -59,11 +59,11 @@ A structured repository containing official PDF documents and visual previews fo
 
 <p align="center">
   <img src="./assets/certificates/NUTS&BOLTSOFML.png" width="48%" alt="Nuts and Bolts of ML" />
-  <img src="./assets/certificates/BASICSOFML.png" width="48%" alt="Basics of ML" />
+  <img src="./assets/certificates/DATAANALYTICSCASPTONE.png" width="48%" alt="Data Analytics Capstone" />
 </p>
 
 <p align="center">
-  <img src="./assets/certificates/DATAANALYTICSCASPTONE.png" width="48%" alt="Data Analytics Capstone" />
+  <img src="./assets/certificates/BASICSOFML.png" width="48%" alt="Basics of ML" />
 </p>
 
 ---
