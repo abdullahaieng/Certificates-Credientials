@@ -72,13 +72,14 @@ A structured repository containing official PDF documents and visual previews fo
 
 <p align="center">
   <img src="./assets/certificates/METAINTRODUCTIONTO FRONTEND.png" width="48%" alt="Meta Front-End" />
-  <img src="./assets/certificates/INTRODUCTIONTOCOPILOT.png" width="48%" alt="Intro to Copilot" />
+  <img src="./assets/certificates/BASICSOFPYTHON.png" width="48%" alt="Basics of Python" />
 
 </p>
 
 <p align="center">
   <img src="./assets/certificates/firstpythonprogram.png" width="48%" alt="First Python Program" />
-  <img src="./assets/certificates/BASICSOFPYTHON.png" width="48%" alt="Basics of Python" />
+  <img src="./assets/certificates/INTRODUCTIONTOCOPILOT.png" width="48%" alt="Intro to Copilot" />
+
 </p>
 
 <p align="center">
