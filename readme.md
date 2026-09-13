@@ -2,39 +2,7 @@
 
 A structured repository containing official PDF documents and visual previews for my certifications across **Data Science**, **Machine Learning**, **AI**, and **Software Engineering**.
 
----
 
-## 📂 Quick PDF Verification Index
-
-| Certificate Title | Category | Official Document |
-| :--- | :--- | :---: |
-| **Machine Learning Specialization** | Machine Learning | [Download PDF](./assets/certificates/MACHINELEARNING.pdf) |
-| **Google Advanced Data Analytics** | Data Science | [Download PDF](./assets/certificates/ADVANCEDATAANALYTICS.pdf) |
-| **Supervised Machine Learning** | Machine Learning | [Download PDF](./assets/certificates/SUPERVISEDLEARNING.pdf) |
-| **Advanced Learning Algorithms** | Machine Learning | [Download PDF](./assets/certificates/ADVANCEDALGORITHMS.pdf) |
-| **Unsupervised Learning & Recommenders** | Machine Learning | [Download PDF](./assets/certificates/UNSUPERVISEDLEARNING.pdf) |
-| **Foundations of Data Science** | Data Science | [Download PDF](./assets/certificates/FOUNDATIONOFDS.pdf) |
-| **Go Beyond the Numbers** | Data Science | [Download PDF](./assets/certificates/GOBEYONDNUMBERS.pdf) |
-| **The Power of Statistics** | Data Science | [Download PDF](./assets/certificates/POWEROFSTATISTICS.pdf) |
-| **Regression Analysis** | Data Science | [Download PDF](./assets/certificates/SIMPLIFYCOMPLEXDATA.pdf) |
-| **The Nuts and Bolts of Machine Learning** | Machine Learning | [Download PDF](./assets/certificates/NUTS&BOLTSOFML.pdf) |
-| **Basics of Machine Learning** | Machine Learning | [Download PDF](./assets/certificates/BASICSOFML.pdf) |
-| **Data Analytics Capstone** | Data Science | [Download PDF](./assets/certificates/DATAANALYTICSCASPTONE.pdf) |
-| **Meta: Intro to Front-End Development** | Web Development | [Download PDF](./assets/certificates/METAINTRODUCTIONTOFRONTEND.pdf) |
-| **Basics of Python** | Programming | [Download PDF](./assets/certificates/BASICSOFPYTHON.pdf) |
-| **First Python Program** | Programming | [Download PDF](./assets/certificates/firstpythonprogram.pdf) |
-| **Introduction to Copilot** | Dev Tools | [Download PDF](./assets/certificates/INTRODUCTIONTOCOPILOT.pdf) |
-| **Claude Code 101** | Dev Tools | [Download PDF](./assets/certificates/claudecode101.pdf) |
-| **AI for Beginners** | Artificial Intelligence | [Download PDF](./assets/certificates/AI%20for%20Beginners.pdf) |
-| **AI for Brainstorming & Planning** | Artificial Intelligence | [Download PDF](./assets/certificates/AIBRAINSTROMING.pdf) |
-| **Prompt Engineering** | Artificial Intelligence | [Download PDF](./assets/certificates/prompt%20engineering.pdf) |
-| **Accelerate Your Job Search with AI** | Artificial Intelligence | [Download PDF](./assets/certificates/JOBSEARCHWITHAI.pdf) |
-| **Deloitte Job Simulation** | Corporate Experience | [Download PDF](./assets/certificates/deollite.pdf) |
-| **Forage Virtual Internship** | Corporate Experience | [Download PDF](./assets/certificates/FORAGE.pdf) |
-| **Graphic Design 3D Effect** | Design | [Download PDF](./assets/certificates/graphicdesignpopprofilepic.pdf) |
-| **Academic Transcript** | Official Record | [Download PDF](./assets/certificates/Muhammad%20Abdullah_CR641_transcript.pdf) |
-
----
 
 ## 🖼️ Visual Certificates (Section-Wise)
 ### 🤖 1. Machine Learning
@@ -118,3 +86,39 @@ A structured repository containing official PDF documents and visual previews fo
 <p align="center">
   <img src="./assets/certificates/graphicdesignpopprofilepic.png" width="48%" alt="Graphic Design" />
 </p>
+
+## 📂 Quick PDF Verification Index
+
+| Certificate Title | Category | Official Document |
+| :--- | :--- | :---: |
+| **Machine Learning Specialization** | Machine Learning | [Download PDF](./assets/certificates/MACHINELEARNING.pdf) |
+| **Google Advanced Data Analytics** | Data Science | [Download PDF](./assets/certificates/ADVANCEDATAANALYTICS.pdf) |
+| **Supervised Machine Learning** | Machine Learning | [Download PDF](./assets/certificates/SUPERVISEDLEARNING.pdf) |
+| **Advanced Learning Algorithms** | Machine Learning | [Download PDF](./assets/certificates/ADVANCEDALGORITHMS.pdf) |
+| **Unsupervised Learning & Recommenders** | Machine Learning | [Download PDF](./assets/certificates/UNSUPERVISEDLEARNING.pdf) |
+| **Foundations of Data Science** | Data Science | [Download PDF](./assets/certificates/FOUNDATIONOFDS.pdf) |
+| **Go Beyond the Numbers** | Data Science | [Download PDF](./assets/certificates/GOBEYONDNUMBERS.pdf) |
+| **The Power of Statistics** | Data Science | [Download PDF](./assets/certificates/POWEROFSTATISTICS.pdf) |
+| **Regression Analysis** | Data Science | [Download PDF](./assets/certificates/SIMPLIFYCOMPLEXDATA.pdf) |
+| **The Nuts and Bolts of Machine Learning** | Machine Learning | [Download PDF](./assets/certificates/NUTS&BOLTSOFML.pdf) |
+| **Basics of Machine Learning** | Machine Learning | [Download PDF](./assets/certificates/BASICSOFML.pdf) |
+| **Data Analytics Capstone** | Data Science | [Download PDF](./assets/certificates/DATAANALYTICSCASPTONE.pdf) |
+| **Meta: Intro to Front-End Development** | Web Development | [Download PDF](./assets/certificates/METAINTRODUCTIONTOFRONTEND.pdf) |
+| **Basics of Python** | Programming | [Download PDF](./assets/certificates/BASICSOFPYTHON.pdf) |
+| **First Python Program** | Programming | [Download PDF](./assets/certificates/firstpythonprogram.pdf) |
+| **Introduction to Copilot** | Dev Tools | [Download PDF](./assets/certificates/INTRODUCTIONTOCOPILOT.pdf) |
+| **Claude Code 101** | Dev Tools | [Download PDF](./assets/certificates/claudecode101.pdf) |
+| **AI for Beginners** | Artificial Intelligence | [Download PDF](./assets/certificates/AI%20for%20Beginners.pdf) |
+| **AI for Brainstorming & Planning** | Artificial Intelligence | [Download PDF](./assets/certificates/AIBRAINSTROMING.pdf) |
+| **Prompt Engineering** | Artificial Intelligence | [Download PDF](./assets/certificates/prompt%20engineering.pdf) |
+| **Accelerate Your Job Search with AI** | Artificial Intelligence | [Download PDF](./assets/certificates/JOBSEARCHWITHAI.pdf) |
+| **Deloitte Job Simulation** | Corporate Experience | [Download PDF](./assets/certificates/deollite.pdf) |
+| **Forage Virtual Internship** | Corporate Experience | [Download PDF](./assets/certificates/FORAGE.pdf) |
+| **Graphic Design 3D Effect** | Design | [Download PDF](./assets/certificates/graphicdesignpopprofilepic.pdf) |
+| **Academic Transcript** | Official Record | [Download PDF](./assets/certificates/Muhammad%20Abdullah_CR641_transcript.pdf) |
+
+---
+
+
+
+
