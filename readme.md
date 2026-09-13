@@ -37,25 +37,30 @@ A structured repository containing official PDF documents and visual previews fo
 ---
 
 ## 🖼️ Visual Certificates (Section-Wise)
-
-### 🤖 1. Data Science & Machine Learning
-
+### 🤖 1.Machine Learning
 <p align="center">
   <img src="./assets/certificates/MACHINELEARNING.png" width="90%" alt="Machine Learning Specialization" />
 </p>
+<p align="center">
+  <img src="./assets/certificates/SUPERVISEDLEARNING.png" width="48%" alt="Supervised Machine Learning" />
+  <img src="./assets/certificates/ADVANCEDALGORITHMS.png" width="48%" alt="Advanced Learning Algorithms" />
+</p>
+<p align="center>
+  <img src="./assets/certificates/UNSUPERVISEDLEARNING.png" width="48%" alt="Unsupervised Learning"/>
+</p>
+
+### 2. Data Science
+
 
 <p align="center">
   <img src="./assets/certificates/ADVANCEDATAANALYTICS.png" width="90%" alt="Google Advanced Data Analytics" />
 </p>
 
-<p align="center">
-  <img src="./assets/certificates/SUPERVISEDLEARNING.png" width="48%" alt="Supervised Machine Learning" />
-  <img src="./assets/certificates/ADVANCEDALGORITHMS.png" width="48%" alt="Advanced Learning Algorithms" />
-</p>
+
 
 <p align="center">
-  <img src="./assets/certificates/UNSUPERVISEDLEARNING.png" width="48%" alt="Unsupervised Learning" />
   <img src="./assets/certificates/FOUNDATIONOFDS.png" width="48%" alt="Foundations of Data Science" />
+  <img src="./assets/certificates/NUTS&BOLTSOFML.png" width="48%" alt="Nuts and Bolts of ML" />
 </p>
 
 <p align="center">
