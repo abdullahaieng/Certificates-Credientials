@@ -49,8 +49,7 @@ A structured repository containing official PDF documents and visual previews fo
   <img src="./assets/certificates/UNSUPERVISEDLEARNING.png" width="48%" alt="Unsupervised Learning"/>
 </p>
 
-### 2. Data Science
-
+### 2. Advanced Data Analytics
 
 <p align="center">
   <img src="./assets/certificates/ADVANCEDATAANALYTICS.png" width="90%" alt="Google Advanced Data Analytics" />
@@ -69,17 +68,17 @@ A structured repository containing official PDF documents and visual previews fo
 </p>
 
 <p align="center">
+  <img src="./assets/certificates/DATAANALYTICSCASPTONE.png" width="48%" alt="Data Analytics Capstone" />
   <img src="./assets/certificates/SIMPLIFYCOMPLEXDATA.png" width="48%" alt="Regression Analysis" />
 </p>
 
 <p align="center">
-  <img src="./assets/certificates/DATAANALYTICSCASPTONE.png" width="48%" alt="Data Analytics Capstone" />
-  <img src="./assets/certificates/BASICSOFML.png" width="48%" alt="Basics of ML" />
+    <img src="./assets/certificates/BASICSOFML.png" width="48%" alt="Basics of ML" />
 </p>
 
 ---
 
-### 💻 2. Web Development & Programming
+### 💻 3. Web Development & Programming
 
 <p align="center">
   <img src="./assets/certificates/METAINTRODUCTIONTO FRONTEND.png" width="48%" alt="Meta Front-End" />
@@ -97,7 +96,7 @@ A structured repository containing official PDF documents and visual previews fo
 
 ---
 
-### 💡 3. Artificial Intelligence & Prompting
+### 💡 4. Artificial Intelligence & Prompting
 
 <p align="center">
   <img src="./assets/certificates/AI%20for%20Beginners.png" width="48%" alt="AI for Beginners" />
@@ -111,7 +110,7 @@ A structured repository containing official PDF documents and visual previews fo
 
 ---
 
-### 🏢 4. Virtual Internships & Design
+### 🏢 5. Virtual Internships & Design
 
 <p align="center">
   <img src="./assets/certificates/deollite.png" width="48%" alt="Deloitte Job Simulation" />
