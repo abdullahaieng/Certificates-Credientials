@@ -8,8 +8,10 @@ A structured repository containing official PDF documents and visual previews fo
 
 | Certificate Title | Category | Official Document |
 | :--- | :--- | :---: |
+| **Machine Learning Specialization** | Machine Learning | [Download PDF](./assets/certificates/MACHINELEARNING.pdf) |
 | **Google Advanced Data Analytics** | Data Science | [Download PDF](./assets/certificates/ADVANCEDATAANALYTICS.pdf) |
 | **Supervised Machine Learning** | Machine Learning | [Download PDF](./assets/certificates/SUPERVISEDLEARNING.pdf) |
+| **Advanced Learning Algorithms** | Machine Learning | [Download PDF](./assets/certificates/ADVANCEDALGORITHMS.pdf) |
 | **Unsupervised Learning & Recommenders** | Machine Learning | [Download PDF](./assets/certificates/UNSUPERVISEDLEARNING.pdf) |
 | **Foundations of Data Science** | Data Science | [Download PDF](./assets/certificates/FOUNDATIONOFDS.pdf) |
 | **Go Beyond the Numbers** | Data Science | [Download PDF](./assets/certificates/GOBEYONDNUMBERS.pdf) |
@@ -39,30 +41,35 @@ A structured repository containing official PDF documents and visual previews fo
 ### 🤖 1. Data Science & Machine Learning
 
 <p align="center">
+  <img src="./assets/certificates/MACHINELEARNING.jpg" width="90%" alt="Machine Learning Specialization" />
+</p>
+
+<p align="center">
   <img src="./assets/certificates/ADVANCEDATAANALYTICS.png" width="90%" alt="Google Advanced Data Analytics" />
 </p>
 
 <p align="center">
   <img src="./assets/certificates/SUPERVISEDLEARNING.png" width="48%" alt="Supervised Machine Learning" />
+  <img src="./assets/certificates/ADVANCEDALGORITHMS.jpg" width="48%" alt="Advanced Learning Algorithms" />
+</p>
+
+<p align="center">
   <img src="./assets/certificates/UNSUPERVISEDLEARNING.png" width="48%" alt="Unsupervised Learning" />
-</p>
-
-<p align="center">
   <img src="./assets/certificates/FOUNDATIONOFDS.png" width="48%" alt="Foundations of Data Science" />
+</p>
+
+<p align="center">
   <img src="./assets/certificates/GOBEYONDNUMBERS.png" width="48%" alt="Go Beyond Numbers" />
-</p>
-
-<p align="center">
   <img src="./assets/certificates/POWEROFSTATISTICS.png" width="48%" alt="Power of Statistics" />
+</p>
+
+<p align="center">
   <img src="./assets/certificates/SIMPLIFYCOMPLEXDATA.png" width="48%" alt="Regression Analysis" />
-</p>
-
-<p align="center">
   <img src="./assets/certificates/NUTS&BOLTSOFML.png" width="48%" alt="Nuts and Bolts of ML" />
-  <img src="./assets/certificates/DATAANALYTICSCASPTONE.png" width="48%" alt="Data Analytics Capstone" />
 </p>
 
 <p align="center">
+  <img src="./assets/certificates/DATAANALYTICSCASPTONE.png" width="48%" alt="Data Analytics Capstone" />
   <img src="./assets/certificates/BASICSOFML.png" width="48%" alt="Basics of ML" />
 </p>
 
@@ -73,22 +80,15 @@ A structured repository containing official PDF documents and visual previews fo
 <p align="center">
   <img src="./assets/certificates/METAINTRODUCTIONTO FRONTEND.png" width="48%" alt="Meta Front-End" />
   <img src="./assets/certificates/CLAUDECODE101.png" width="48%" alt="Claude Code 101" />
-  
-
 </p>
 
 <p align="center">
-  
-  
   <img src="./assets/certificates/INTRODUCTIONTOCOPILOT.png" width="48%" alt="Intro to Copilot" />
   <img src="./assets/certificates/firstpythonprogram.png" width="48%" alt="First Python Program" />
-
 </p>
 
 <p align="center">
   <img src="./assets/certificates/BASICSOFPYTHON.png" width="48%" alt="Basics of Python" />
-  
-  
 </p>
 
 ---
@@ -101,7 +101,6 @@ A structured repository containing official PDF documents and visual previews fo
 </p>
 
 <p align="center">
-  
   <img src="./assets/certificates/AIBRAINSTROMING.png" width="48%" alt="AI Brainstorming" />
   <img src="./assets/certificates/JOBSEARCHWITHAI.png" width="48%" alt="Job Search with AI" />
 </p>
