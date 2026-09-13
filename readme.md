@@ -45,7 +45,7 @@ A structured repository containing official PDF documents and visual previews fo
   <img src="./assets/certificates/SUPERVISEDLEARNING.png" width="48%" alt="Supervised Machine Learning" />
   <img src="./assets/certificates/ADVANCEDALGORITHMS.png" width="48%" alt="Advanced Learning Algorithms" />
 </p>
-<p align="center>
+<p align="center">
   <img src="./assets/certificates/UNSUPERVISEDLEARNING.png" width="48%" alt="Unsupervised Learning"/>
 </p>
 
@@ -70,7 +70,6 @@ A structured repository containing official PDF documents and visual previews fo
 
 <p align="center">
   <img src="./assets/certificates/SIMPLIFYCOMPLEXDATA.png" width="48%" alt="Regression Analysis" />
-  <img src="./assets/certificates/NUTS&BOLTSOFML.png" width="48%" alt="Nuts and Bolts of ML" />
 </p>
 
 <p align="center">
