@@ -41,7 +41,7 @@ A structured repository containing official PDF documents and visual previews fo
 ### 🤖 1. Data Science & Machine Learning
 
 <p align="center">
-  <img src="./assets/certificates/MACHINELEARNING.jpg" width="90%" alt="Machine Learning Specialization" />
+  <img src="./assets/certificates/MACHINELEARNING.png" width="90%" alt="Machine Learning Specialization" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ A structured repository containing official PDF documents and visual previews fo
 
 <p align="center">
   <img src="./assets/certificates/SUPERVISEDLEARNING.png" width="48%" alt="Supervised Machine Learning" />
-  <img src="./assets/certificates/ADVANCEDALGORITHMS.jpg" width="48%" alt="Advanced Learning Algorithms" />
+  <img src="./assets/certificates/ADVANCEDALGORITHMS.png" width="48%" alt="Advanced Learning Algorithms" />
 </p>
 
 <p align="center">
