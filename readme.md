@@ -19,7 +19,7 @@ A structured repository containing official PDF documents and visual previews fo
 | **Regression Analysis** | Data Science | [Download PDF](./assets/certificates/SIMPLIFYCOMPLEXDATA.pdf) |
 | **The Nuts and Bolts of Machine Learning** | Machine Learning | [Download PDF](./assets/certificates/NUTS&BOLTSOFML.pdf) |
 | **Basics of Machine Learning** | Machine Learning | [Download PDF](./assets/certificates/BASICSOFML.pdf) |
-| **Data Analytics Capstone** | Data Science | [Download PDF](./assets/certificates/DATAANALYTICSCASTONE.pdf) |
+| **Data Analytics Capstone** | Data Science | [Download PDF](./assets/certificates/DATAANALYTICSCASPTONE.pdf) |
 | **Meta: Intro to Front-End Development** | Web Development | [Download PDF](./assets/certificates/METAINTRODUCTIONTOFRONTEND.pdf) |
 | **Basics of Python** | Programming | [Download PDF](./assets/certificates/BASICSOFPYTHON.pdf) |
 | **First Python Program** | Programming | [Download PDF](./assets/certificates/firstpythonprogram.pdf) |
@@ -37,7 +37,7 @@ A structured repository containing official PDF documents and visual previews fo
 ---
 
 ## 🖼️ Visual Certificates (Section-Wise)
-### 🤖 1.Machine Learning
+### 🤖 1. Machine Learning
 <p align="center">
   <img src="./assets/certificates/MACHINELEARNING.png" width="90%" alt="Machine Learning Specialization" />
 </p>
@@ -49,13 +49,11 @@ A structured repository containing official PDF documents and visual previews fo
   <img src="./assets/certificates/UNSUPERVISEDLEARNING.png" width="48%" alt="Unsupervised Learning"/>
 </p>
 
-### 2. Advanced Data Analytics
+### 📊 2. Advanced Data Analytics
 
 <p align="center">
   <img src="./assets/certificates/ADVANCEDATAANALYTICS.png" width="90%" alt="Google Advanced Data Analytics" />
 </p>
-
-
 
 <p align="center">
   <img src="./assets/certificates/FOUNDATIONOFDS.png" width="48%" alt="Foundations of Data Science" />
@@ -81,7 +79,7 @@ A structured repository containing official PDF documents and visual previews fo
 ### 💻 3. Web Development & Programming
 
 <p align="center">
-  <img src="./assets/certificates/METAINTRODUCTIONTO FRONTEND.png" width="48%" alt="Meta Front-End" />
+  <img src="./assets/certificates/METAINTRODUCTIONTOFRONTEND.png" width="48%" alt="Meta Front-End" />
   <img src="./assets/certificates/CLAUDECODE101.png" width="48%" alt="Claude Code 101" />
 </p>
 
